@@ -1,8 +1,8 @@
 {
-  "version": "1.0.19",
-  "releaseNotes": "Actualización 1.0.19 de AresSoft.",
+  "version": "1.0.22",
+  "releaseNotes": "Actualización 1.0.22 de AresSoft.",
   "downloads": {
-    "x64": "https://github.com/cleto92/aressoft-releases/releases/download/v1.0.19/AresSoft-Setup-1.0.19-x64.exe",
-    "ia32": "https://github.com/cleto92/aressoft-releases/releases/download/v1.0.19/AresSoft-Setup-1.0.19-ia32.exe"
+    "x64": "https://github.com/cleto92/aressoft-releases/releases/download/v1.0.22/AresSoft-Setup-1.0.22-x64.exe",
+    "ia32": "https://github.com/cleto92/aressoft-releases/releases/download/v1.0.22/AresSoft-Setup-1.0.22-ia32.exe"
   }
 }
