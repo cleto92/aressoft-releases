@@ -1,8 +1,8 @@
 {
-  "version": "1.0.39",
-  "releaseNotes": "Actualización 1.0.39 de Ares Gestion.",
+  "version": "1.0.40",
+  "releaseNotes": "Actualización 1.0.40 de Ares Gestion.",
   "downloads": {
-    "x64": "https://github.com/cleto92/aressoft-releases/releases/download/v1.0.39/Ares.Gestion-Setup-1.0.39-x64.exe",
-    "ia32": "https://github.com/cleto92/aressoft-releases/releases/download/v1.0.39/Ares.Gestion-Setup-1.0.39-ia32.exe"
+    "x64": "https://github.com/cleto92/aressoft-releases/releases/download/v1.0.40/Ares.Gestion-Setup-1.0.40-x64.exe",
+    "ia32": "https://github.com/cleto92/aressoft-releases/releases/download/v1.0.40/Ares.Gestion-Setup-1.0.40-ia32.exe"
   }
 }
