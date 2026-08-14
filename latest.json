@@ -1,8 +1,8 @@
 {
-  "version": "2.0.6",
-  "releaseNotes": "Actualización 2.0.6 de ABC Gestion.",
+  "version": "2.0.7",
+  "releaseNotes": "Actualización 2.0.7 de ABC Gestion.",
   "downloads": {
-    "x64": "https://github.com/cleto92/aressoft-releases/releases/download/v2.0.6/ABCGestion-Setup-2.0.6-x64.exe",
-    "ia32": "https://github.com/cleto92/aressoft-releases/releases/download/v2.0.6/ABCGestion-Setup-2.0.6-ia32.exe"
+    "x64": "https://github.com/cleto92/aressoft-releases/releases/download/v2.0.7/ABCGestion-Setup-2.0.7-x64.exe",
+    "ia32": "https://github.com/cleto92/aressoft-releases/releases/download/v2.0.7/ABCGestion-Setup-2.0.7-ia32.exe"
   }
 }
